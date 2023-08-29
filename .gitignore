@@ -5,4 +5,4 @@
 !resources/*
 !README.md
 !.gitignore
-!crash-reports
+!crash-reports/*
