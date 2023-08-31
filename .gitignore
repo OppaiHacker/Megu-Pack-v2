@@ -1,6 +1,7 @@
 *
 
 !config/*
+!config/*/*
 !mods/*.jar
 !resources/*
 !README.md
